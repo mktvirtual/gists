@@ -3,7 +3,6 @@ Gists
 
 > [Also in English](https://github.com/mktvirtual/gists/blob/master/README.md)
 
-> A collection of GitHub Gists from Mkt Virtual team
 > Uma coleção de GitHub Gists do time da Mkt Virtual
 
 ## Front-end
