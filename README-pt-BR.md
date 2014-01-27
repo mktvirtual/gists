@@ -14,5 +14,5 @@ Gists
 ## Back-end
 > Nada por aqui ainda
 
-## Others
+## Outros
 > Nada por aqui ainda
