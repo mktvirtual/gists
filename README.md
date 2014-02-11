@@ -9,6 +9,7 @@ Gists
 | Gist | Description | Author | Language |
 | ---- | ----------- | ------ | -------- |
 | **[Tracker](https://gist.github.com/hugobessaa/8659318)** | Easy Google Analytics Tracking | [@hugobessaa](https://gist.github.com/hugobessaa) | CoffeeScript |
+| **[Git Ahead and Behind](https://gist.github.com/hugobessaa/8788821)** | Ahead and Behind commits from your revision | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 
 ## Back-end
 | Gist | Description | Author | Language |
