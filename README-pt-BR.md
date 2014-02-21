@@ -17,5 +17,7 @@ Gists
 | **[Create Location Terms](https://gist.github.com/brunomarks/8851573)** | Popular cidades e estados em uma taxonomia do Wordpress | [@brunomarks](https://gist.github.com/brunomarks) | PHP |
 
 ## Outros
+| Gist | Descrição | Autor | Linguagem |
+| ---- | --------- | ----- | --------- |
 | **[Git Ahead and Behind](https://gist.github.com/hugobessaa/8788821)** | Quantidade commits à frente e atrás de sua revisão atual | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 | **[Git Sync Fork](https://gist.github.com/hugobessaa/9144013)** | Sincroniza forks no GitHub | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
