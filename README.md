@@ -22,4 +22,5 @@ Gists
 | **[Git Ahead and Behind](https://gist.github.com/hugobessaa/8788821)** | Ahead and Behind commits from your revision | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 | **[Git Sync Fork](https://gist.github.com/hugobessaa/9144013)** | Sync GitHub fork | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 | **[SVG Map of Brazil](https://gist.github.com/brunomarks/9210122)** | SVG Map of Brazil | [@brunomarks](https://gist.github.com/brunomarks) | HTML/CSS/SVG |
+| **[git-useful](https://gist.github.com/hugobessaa/10272410)** | A collection of useful git commands | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 
