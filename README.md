@@ -23,4 +23,5 @@ Gists
 | **[Git Sync Fork](https://gist.github.com/hugobessaa/9144013)** | Sync GitHub fork | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 | **[SVG Map of Brazil](https://gist.github.com/brunomarks/9210122)** | SVG Map of Brazil | [@brunomarks](https://gist.github.com/brunomarks) | HTML/CSS/SVG |
 | **[git-useful](https://gist.github.com/hugobessaa/10272410)** | A collection of useful git commands | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
+|**[Allow access to custom fonts](https://gist.github.com/NicolasPio/4138a92d1d10e2aac70d)** | @font-face allows access to files. woff. ttf and ttf | [@NicolasPio](https://gist.github.com/NicolasPio) | ApacheConf |
 
