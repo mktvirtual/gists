@@ -15,6 +15,7 @@ Gists
 | Gist | Description | Author | Language |
 | ---- | ----------- | ------ | -------- |
 | **[Create Location Terms](https://gist.github.com/brunomarks/8851573)** | Insert cities and states into a taxonomy in Wordpress | [@brunomarks](https://gist.github.com/brunomarks) | PHP |
+| **[Clear Cache Facebook](https://gist.github.com/NicolasPio/2b833766a16ec4648ce1)** | Clear the cache of the Facebook Open Graph | [@NicolasPio](https://gist.github.com/NicolasPio) | PHP |
 
 ## Others
 | Gist | Description | Author | Language |
