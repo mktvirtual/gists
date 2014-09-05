@@ -25,4 +25,4 @@ Gists
 | **[SVG Map of Brazil](https://gist.github.com/brunomarks/9210122)** | SVG Map of Brazil | [@brunomarks](https://gist.github.com/brunomarks) | HTML/CSS/SVG |
 | **[git-useful](https://gist.github.com/hugobessaa/10272410)** | A collection of useful git commands | [@hugobessaa](https://gist.github.com/hugobessaa) | ShellScript |
 |**[Allow access to custom fonts](https://gist.github.com/NicolasPio/4138a92d1d10e2aac70d)** | @font-face allows access to files. woff. ttf and ttf | [@NicolasPio](https://gist.github.com/NicolasPio) | ApacheConf |
-
+|**[clickTag in AS3](https://gist.github.com/NicolasPio/aa27dd201d812ee00b8d)** | Implementing clickTag banner advertising in as3 | [@NicolasPio](https://gist.github.com/NicolasPio) | ActionScript 3 |
